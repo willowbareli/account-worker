@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-04T11:41:39.875Z",
+  "updatedAt": "2026-10-04T11:44:59.672Z",
   "users": [
     {
       "id": "clover_1791114099875",
@@ -10,6 +10,15 @@
       "passwordHash": "8cfebf59312c1672ff7cafcdd843e3bbca3e642b736e6320d85a8e5fafca54e3",
       "salt": "",
       "createdAt": "2026-10-04T11:41:39.875Z"
+    },
+    {
+      "id": "clover_1791114299672",
+      "name": "Isabelle Woods",
+      "username": "iwoods",
+      "email": "izzy@woodsstudio.dev",
+      "passwordHash": "34bf38757d01b1ac0da37a3a69f669586711f14a2f6cfbd97cfa5bbe62c4f5bd",
+      "salt": "",
+      "createdAt": "2026-10-04T11:44:59.672Z"
     }
   ]
 }
