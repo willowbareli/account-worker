@@ -1,5 +1,15 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-04T10:00:00.000Z",
-  "users": []
+  "updatedAt": "2026-10-04T11:41:39.875Z",
+  "users": [
+    {
+      "id": "clover_1791114099875",
+      "name": "Test",
+      "username": "test",
+      "email": "test@test.com",
+      "passwordHash": "8cfebf59312c1672ff7cafcdd843e3bbca3e642b736e6320d85a8e5fafca54e3",
+      "salt": "",
+      "createdAt": "2026-10-04T11:41:39.875Z"
+    }
+  ]
 }
